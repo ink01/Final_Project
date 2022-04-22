@@ -1,0 +1,76 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\bin\Debug\net6.0-windows\ref\Final_Project.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\ref\Final_Project.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Form2.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.AssemblyReference.cache
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.exe
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.deps.json
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.runtimeconfig.json
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.dll
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.pdb
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.AssemblyReference.cache
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Form2.resources
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Properties.Resources.resources
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.GenerateResource.cache
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.AssemblyInfoInputs.cache
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.AssemblyInfo.cs
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.dll
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\refint\Final_Project.dll
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.pdb
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.genruntimeconfig.cache
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\ref\Final_Project.dll
+C:\Users\INK\Downloads\Final_Project_643450076_9-main (1)\Final_Project_643450076_9-main\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Form1.resources
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.exe
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.deps.json
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.runtimeconfig.json
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.dll
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.pdb
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.AssemblyReference.cache
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Form1.resources
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Form2.resources
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Properties.Resources.resources
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.GenerateResource.cache
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.AssemblyInfoInputs.cache
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.AssemblyInfo.cs
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.dll
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\refint\Final_Project.dll
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.pdb
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.genruntimeconfig.cache
+C:\Users\INK\Downloads\Final-Project-643450508-6\Final_Project\Final_Project\obj\Debug\net6.0-windows\ref\Final_Project.dll
+C:\Users\INK\Desktop\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.exe
+C:\Users\INK\Desktop\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.deps.json
+C:\Users\INK\Desktop\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.runtimeconfig.json
+C:\Users\INK\Desktop\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.dll
+C:\Users\INK\Desktop\Final_Project\Final_Project\bin\Debug\net6.0-windows\Final_Project.pdb
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.AssemblyReference.cache
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Form1.resources
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Form2.resources
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.Properties.Resources.resources
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.GenerateResource.cache
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.AssemblyInfoInputs.cache
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.AssemblyInfo.cs
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.dll
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\refint\Final_Project.dll
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.pdb
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\Final_Project.genruntimeconfig.cache
+C:\Users\INK\Desktop\Final_Project\Final_Project\obj\Debug\net6.0-windows\ref\Final_Project.dll
